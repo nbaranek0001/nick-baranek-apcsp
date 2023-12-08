@@ -1,4 +1,4 @@
-# Type your name - APCS Portfolio
+# Nick Baranek - APCS Portfolio
 A showcase of your projects in 2023-2024
 
 Included in this portfolio are the following projects:
